@@ -2,7 +2,7 @@
 <h1 align="center">I'm Erfan Granmayeh</h1>
 <h3 align="center">Frontend Developer</h3>
 <p align="center">I enjoy turning complex problems into simple, beautiful and intuitive solutions.
-My job is to build functional and user-friendly and at the same time attractive websites for you.</p>
+My job is to build functional and user-friendly websites for you.</p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/erfjs/Apps/main/face-pic.png">
 
 
