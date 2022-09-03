@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer</h3>
 <p align="center">I enjoy turning complex problems into simple, beautiful and intuitive solutions.
 My job is to build functional and user-friendly websites for you.</p>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/erfjs/Apps/main/prof-img2.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/erfjs/Apps/main/prof-img3.gif">
 
 
 
