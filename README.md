@@ -9,7 +9,7 @@ My job is to build functional and user-friendly websites for you.</p>
 
 
 
-- 🔭 I’m currently working on **Store App**
+- 🔭 I’m currently working on **Convertation App**
 
 - 🌱 I’m currently learning **MERN**
 
