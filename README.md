@@ -1,5 +1,5 @@
 
-<h1 align="center">I'm Erfan Granmayeh</h1>
+<h1 align="center">I'm Granmayeh</h1>
 <h3 align="center">Frontend Developer</h3>
 <p align="center">I enjoy turning complex problems into simple, beautiful and intuitive solutions.
 My job is to build functional and user-friendly websites for you.</p>
@@ -9,15 +9,15 @@ My job is to build functional and user-friendly websites for you.</p>
 
 
 
-- 🔭 I’m currently working on **Conversation App**
+- 🔭 I am currently working as a Freelancer
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently working MERN projects
 
 - 💬 Ask me about **React , Next.js**
 
 - 📫 How to reach me **support@erfjs.com**
 
-- ⚡ Fun fact **I love to Learn New Thing and Technologies**
+- ⚡ Fun fact **I love to Learn New Things and Technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
