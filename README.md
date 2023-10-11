@@ -1,7 +1,7 @@
 
-<h1 align="center">I'm Granmayeh</h1>
+<h1 align="center">I'm Erfan Granmayeh</h1>
 <h3 align="center">Frontend Developer</h3>
-<p align="center">I enjoy turning complex problems into simple, beautiful and intuitive solutions.
+<p align="center">I enjoy turning complex problems into simple, beautiful, intuitive solutions.
 My job is to build functional and user-friendly websites for you.</p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/erfjs/Apps/main/prof-img.gif">
 
@@ -11,7 +11,7 @@ My job is to build functional and user-friendly websites for you.</p>
 
 - 🔭 I am currently working as a Freelancer
 
-- 🌱 I’m currently working MERN projects
+- 🌱 I’m currently working on MERN projects
 
 - 💬 Ask me about **React , Next.js , Node.js**
 
