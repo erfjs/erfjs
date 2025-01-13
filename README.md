@@ -1,5 +1,5 @@
 
-<h1 align="center">I'm Erfan Granmayeh Rad</h1>
+<h1 align="center">I'm Erfan Granmayeh </h1>
 <h3 align="center">Frontend Developer</h3>
 <p align="center">I enjoy turning complex problems into simple, beautiful, intuitive solutions.
 My job is to build functional and user-friendly websites for you.</p>
