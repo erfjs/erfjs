@@ -1,7 +1,10 @@
 <h1 align="center">I'm Erfan Granmayeh</h1>
-<h3 align="center">Senior Frontend Engineer</h3>
-<p align="center">I turn complex product problems into simple, fast, and intuitive interfaces.<br/>I build production web apps with React, Next.js, TypeScript, and real-time UX.</p>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/erfjs/Apps/main/prof-img.gif">
+<h3 align="center">Full Stack Developer</h3>
+<p align="center">I turn complex product problems into simple, fast, and intuitive interfaces.<br/>I build production web apps with React, Next.js, TypeScript, Node.js, and real-time UX.</p>
+
+<p align="center">
+  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/erfjs/Apps/main/prof-img.gif">
+</p>
 
 - 🔭 Freelance / contract — shipping products from idea to production
 - 🌱 Building Next.js apps with TypeScript, CMS backends, and live data
@@ -16,13 +19,6 @@
 - Headless CMS and APIs (Strapi, Node.js)
 - Real-time experiences (live match HUD / Game State Integration)
 - Mobile surfaces (PWA, Trusted Web Activity, React Native / Expo)
-
-<h3 align="left">Public work</h3>
-
-- [animated-portfolio](https://github.com/erfjs/animated-portfolio) — motion-heavy React + TypeScript portfolio
-- [dota2-gsi-relay](https://github.com/erfjs/dota2-gsi-relay) — live Dota 2 spawn timers and match HUD
-- [Smart-Insurance-Application](https://github.com/erfjs/Smart-Insurance-Application) — insurance application portal
-- [Todo-list](https://github.com/erfjs/Todo-list) — React todo app with dark mode
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -45,9 +41,4 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=erfjs&show_icons=true&hide_title=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfjs&layout=compact&hide_title=true" alt="Top languages" height="165"/>
 </p>
